@@ -6,3 +6,5 @@
 [CS 250 Software Development Lifecycle](/CS%20250/README.md)
 
 [CS 255 System Analysis and Design](/CS%20255/README.md)
+
+[CS 300 Analysis and Design](/CS%20300/README.md)
