@@ -8,3 +8,5 @@
 [CS 255 System Analysis and Design](/CS%20255/README.md)
 
 [CS 300 Analysis and Design](/CS%20300/README.md)
+
+[CS 305 Software Security](/CS%20305/README.md)
