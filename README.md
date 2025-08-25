@@ -11,6 +11,6 @@
 
 [CS 305 Software Security](/CS%20305/README.md)
 
-[CS 320 Software Test, Automation](/CS%320/README.md)
+[CS 320 Software Test, Automation](/CS%20320/README.md)
 
 [CS 330 Comp Graphic and Visualization](/CS%20330/README.md)
