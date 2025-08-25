@@ -10,3 +10,5 @@
 [CS 300 Analysis and Design](/CS%20300/README.md)
 
 [CS 305 Software Security](/CS%20305/README.md)
+
+[CS 330 Comp Graphic and Visualization](/CS%20330/README.md)
