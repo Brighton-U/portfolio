@@ -14,3 +14,5 @@
 [CS 320 Software Test, Automation](/CS%20320/README.md)
 
 [CS 330 Comp Graphic and Visualization](/CS%20330/README.md)
+
+[CS 360 Mobile Architect & Programming](/CS%20360/README.md)
