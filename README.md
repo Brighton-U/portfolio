@@ -15,4 +15,6 @@
 
 [CS 330 Comp Graphic and Visualization](/CS%20330/README.md)
 
+[CS 340 Client/Server Development](/CS%20340/README.md)
+
 [CS 360 Mobile Architect & Programming](/CS%20360/README.md)
